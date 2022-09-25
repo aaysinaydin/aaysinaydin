@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Aysın👋
 I'm a freshman student at Bilkent University, in CS department.
 <!--
 **aaysinaydin/aaysinaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
